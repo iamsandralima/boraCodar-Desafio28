@@ -20,6 +20,9 @@ Visite o projeto online 🔗 [DESSE LINK](https://iamsandralima.github.io/boraCo
 <p align="center">
  <img width="70%" src= "https://github.com/iamsandralima/boraCodar-Desafio28/assets/107657763/00e701d6-1301-496a-94bf-374327388937"/></p>
 
+  
+ <p align="center"><img width="70%" src= "https://github.com/iamsandralima/boraCodar-Desafio28/assets/107657763/28cb0d2e-153f-4404-aa6e-061716533c01"/></p>
+
 
 # 📱 Mobile Version
 <p align="center">
